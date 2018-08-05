@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GameApp</string>
+    <string name="but_check_number">Verifica!</string>
+    <string name="txv_type_number_range_start">Rango Minimo</string>
+    <string name="txv_type_number_range_end">Rango Maximo</string>
+    <string name="txv_legend_1">Adivina un numero entre {0} y {1}</string>
+    <string name="txv_legend_2">Tu numero es: {0}</string>
+    <string name="txv_legend_3">Numero de intentos: {0}</string>
+    <string name="txv_legend_4">Digita el rango en el cual deseas adivinar el numero</string>
+    <string name="etx_legend_1">Digita tu numero aqui!</string>
+    <string name="but_start_game">Iniciar Juego!</string>
+</resources>
