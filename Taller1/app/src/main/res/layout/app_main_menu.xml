@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainMenuActivity">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/line"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/txvAMMGuessGameTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/txv_app_main_menu_guess_game"
+            android:textColor="@color/colorBlue"
+            android:textStyle="bold"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:id="@+id/imvAMMGuessGameImage"
+            android:layout_width="match_parent"
+            android:layout_height="123dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/txvAMMGuessGameTitle"
+            android:layout_marginTop="53dp"
+            android:src="@drawable/guess" />
+
+        <EditText
+            android:id="@+id/txfAMMGuessEndRangeNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imvAMMGuessGameImage"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="189dp"
+            android:hint="@string/txv_app_main_menu_guess_game_hint"
+            android:inputType="number" />
+
+        <TextView
+            android:id="@+id/txvAMMCountriesListTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/imvAMMCountriesListImage"
+            android:layout_below="@id/txfAMMGuessEndRangeNumber"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="253dp"
+            android:paddingTop="50dp"
+            android:text="@string/txv_app_main_menu_countries"
+            android:textAlignment="center"
+            android:textColor="@color/colorBlue"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imvAMMCountriesListImage"
+            android:layout_width="match_parent"
+            android:layout_height="112dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="110dp"
+            android:src="@drawable/countries" />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

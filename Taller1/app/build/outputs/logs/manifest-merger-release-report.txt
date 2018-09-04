@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-beta01.aar/1449c8be9dab64f39673e33e2b6a8368/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/766f8a2b7024b3376fa6d6e038b20e1f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-beta01.aar/245cfedb388bf450d8fa7a2324a67dcb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-beta01.aar/2335350cf7cf257f8b5c332f98443dcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-beta01.aar/659380798ff1d2ccfdf50d248c959120/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-beta01.aar/aa1494293c687ddd31afd915199cf818/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-beta01.aar/4fa06db0b2fab2faf832bffafa509963/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-beta01.aar/b628617cbf6ee344a2640817b81557e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-beta01.aar/3ae8bdcc8f7876051b2d68de45b1167c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-beta01.aar/a10e047f9c3e0cbd6b5aa06966c40e6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-beta01.aar/5028825b7c6f042b0bbc422a820ac514/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-beta01.aar/d194aec51722210dd42b3326c4ab9676/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-beta01.aar/24672ed1eae131d0da1de58c1cb04342/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-beta01.aar/482d60887dc64851bff30802ca286a1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-beta01.aar/24d4e194ecbbbc75839ab722777eb86b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/fc791db45b73b4683f02c6b841fec78d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-beta01.aar/efb73c5cf215405469ab9b0ca064c487/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/58162c3ab0e16ed07d4417cdfd256575/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/e9c03af301233c2a7b7ca24a4ba84f3c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-beta01.aar/e082028c4f74185e3959d545ef468df8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-beta01.aar/521a4fec297c69d5b28e8a3a58ef0009/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/print-28.0.0-beta01.aar/5187928cb5e125ec273f5e2af1e64336/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d483337b73565f4cce81c435e2e0da0d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/da948974510a7744f0fb02959d698d92/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c0bb475482aec44fb7fd995fc9fda45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-beta01.aar/9a93ac3d2c783233e9b4b2703fa7bcd3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/766f8a2b7024b3376fa6d6e038b20e1f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/766f8a2b7024b3376fa6d6e038b20e1f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/fc791db45b73b4683f02c6b841fec78d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/fc791db45b73b4683f02c6b841fec78d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/e9c03af301233c2a7b7ca24a4ba84f3c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/e9c03af301233c2a7b7ca24a4ba84f3c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/fc791db45b73b4683f02c6b841fec78d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.cm.misc.javeriana.game.app.activity.MainMenuActivity
+ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:12:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.cm.misc.javeriana.game.app.activity.GuessGameMainActivity
+ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:19:9-68
+	android:name
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:19:19-65
+activity#com.cm.misc.javeriana.game.app.activity.CountriesListActivity
+ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:20:9-68
+	android:name
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:20:19-65
+activity#com.cm.misc.javeriana.game.app.activity.CountryDetailsActivity
+ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:21:9-78
+	android:name
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml:21:19-66
+uses-sdk
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-beta01.aar/1449c8be9dab64f39673e33e2b6a8368/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-beta01.aar/1449c8be9dab64f39673e33e2b6a8368/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/766f8a2b7024b3376fa6d6e038b20e1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/766f8a2b7024b3376fa6d6e038b20e1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-beta01.aar/245cfedb388bf450d8fa7a2324a67dcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-beta01.aar/245cfedb388bf450d8fa7a2324a67dcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-beta01.aar/2335350cf7cf257f8b5c332f98443dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-beta01.aar/2335350cf7cf257f8b5c332f98443dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-beta01.aar/659380798ff1d2ccfdf50d248c959120/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-beta01.aar/659380798ff1d2ccfdf50d248c959120/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-beta01.aar/aa1494293c687ddd31afd915199cf818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-beta01.aar/aa1494293c687ddd31afd915199cf818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-beta01.aar/4fa06db0b2fab2faf832bffafa509963/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-beta01.aar/4fa06db0b2fab2faf832bffafa509963/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-beta01.aar/b628617cbf6ee344a2640817b81557e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-beta01.aar/b628617cbf6ee344a2640817b81557e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-beta01.aar/3ae8bdcc8f7876051b2d68de45b1167c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-beta01.aar/3ae8bdcc8f7876051b2d68de45b1167c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-beta01.aar/a10e047f9c3e0cbd6b5aa06966c40e6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-beta01.aar/a10e047f9c3e0cbd6b5aa06966c40e6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-beta01.aar/5028825b7c6f042b0bbc422a820ac514/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-beta01.aar/5028825b7c6f042b0bbc422a820ac514/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-beta01.aar/d194aec51722210dd42b3326c4ab9676/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-beta01.aar/d194aec51722210dd42b3326c4ab9676/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-beta01.aar/24672ed1eae131d0da1de58c1cb04342/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-beta01.aar/24672ed1eae131d0da1de58c1cb04342/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-beta01.aar/482d60887dc64851bff30802ca286a1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-beta01.aar/482d60887dc64851bff30802ca286a1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-beta01.aar/24d4e194ecbbbc75839ab722777eb86b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-beta01.aar/24d4e194ecbbbc75839ab722777eb86b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/fc791db45b73b4683f02c6b841fec78d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/fc791db45b73b4683f02c6b841fec78d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-beta01.aar/efb73c5cf215405469ab9b0ca064c487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-beta01.aar/efb73c5cf215405469ab9b0ca064c487/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/58162c3ab0e16ed07d4417cdfd256575/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/58162c3ab0e16ed07d4417cdfd256575/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/e9c03af301233c2a7b7ca24a4ba84f3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/e9c03af301233c2a7b7ca24a4ba84f3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-beta01.aar/e082028c4f74185e3959d545ef468df8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-beta01.aar/e082028c4f74185e3959d545ef468df8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-beta01.aar/521a4fec297c69d5b28e8a3a58ef0009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-beta01.aar/521a4fec297c69d5b28e8a3a58ef0009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/print-28.0.0-beta01.aar/5187928cb5e125ec273f5e2af1e64336/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/print-28.0.0-beta01.aar/5187928cb5e125ec273f5e2af1e64336/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d483337b73565f4cce81c435e2e0da0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d483337b73565f4cce81c435e2e0da0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/da948974510a7744f0fb02959d698d92/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/da948974510a7744f0fb02959d698d92/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c0bb475482aec44fb7fd995fc9fda45/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c0bb475482aec44fb7fd995fc9fda45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-beta01.aar/9a93ac3d2c783233e9b4b2703fa7bcd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-beta01] /Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-beta01.aar/9a93ac3d2c783233e9b4b2703fa7bcd3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/src/main/AndroidManifest.xml

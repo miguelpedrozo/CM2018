@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.GuessGameMainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/txvMGALegendGuessNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txv_legend_1"
+            android:textAlignment="center"
+            android:textStyle="bold"/>
+        <EditText
+            android:id="@+id/etxMGANumberToGuess"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/etx_legend_1"
+            android:inputType="number"/>
+        <Button
+            android:id="@+id/butMGACheckNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/but_check_number"/>
+
+        <ListView
+            android:id="@+id/lsvMGAGuessHistory"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </ListView>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

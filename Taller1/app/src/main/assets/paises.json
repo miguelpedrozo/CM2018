@@ -1,0 +1,152 @@
+{
+  "countries":[
+    { "capitol" : "Berlin",
+      "countryName" : "Alemania",
+      "intCountryName" : "Germany",
+      "shortName" : "DE"
+    },
+
+    { "capitol" : "Buenos Aires",
+      "countryName" : "Argentina",
+      "intCountryName" : "Argentina",
+      "shortName" : "AR"
+    },
+
+    { "capitol" : "Canberra",
+      "countryName" : "Australia",
+      "intCountryName" : "Australia",
+      "shortName" : "AU"
+    },
+    
+    { "capitol" : "Viena",
+      "countryName" : "Austria",
+      "intCountryName" : "Austria",
+      "shortName" : "AT"
+    },
+
+    { "capitol" : "Bruselas",
+      "countryName" : "Bélgica",
+      "intCountryName" : "Belgium",
+      "shortName" : "BE"
+    },
+
+    { "capitol" : "La Paz",
+      "countryName" : "Bolívia",
+      "intCountryName" : "Bolivia",
+      "shortName" : "BO"
+    },
+
+    { "capitol" : "Brasilia",
+      "countryName" : "Brasil",
+      "intCountryName" : "Brazil",
+      "shortName" : "BR"
+    },
+
+    { "capitol" : "Santiago",
+      "countryName" : "Chile",
+      "intCountryName" : "Chile",
+      "shortName" : "CL"
+    },
+
+    { "capitol" : "Bogotá",
+      "countryName" : "Colombia",
+      "intCountryName" : "Colombia",
+      "shortName" : "CO"
+    },
+
+
+    { "capitol" : "La Habana",
+      "countryName" : "Cuba",
+      "intCountryName" : "Cuba",
+      "shortName" : "CU"
+    },
+
+
+    { "capitol" : "Quito",
+      "countryName" : "Ecuador",
+      "intCountryName" : "Ecuador",
+      "shortName" : "EC"
+    },
+
+    { "capitol" : "Madrid",
+      "countryName" : "España",
+      "intCountryName" : "Spain",
+      "shortName" : "ES"
+    },
+    { "capitol" : "Washington",
+      "countryName" : "Estados Unidos",
+      "intCountryName" : "United States",
+      "shortName" : "US"
+    },
+
+    { "capitol" : "Paris",
+      "countryName" : "Francia",
+      "intCountryName" : "France",
+      "shortName" : "FR"
+    },
+
+    { "capitol" : "Londres",
+      "countryName" : "Reino Unido",
+      "intCountryName" : "United Kingdom",
+      "shortName" : "GB"
+    },
+
+    { "capitol" : "Atenas",
+      "countryName" : "Grecia",
+      "intCountryName" : "Greece",
+      "shortName" : "GR"
+    },
+
+    { "capitol" : "Amsterdam",
+      "countryName" : "Holanda",
+      "intCountryName" : "Netherlands",
+      "shortName" : "NL"
+    },
+
+    { "capitol" : "Budapest",
+      "countryName" : "Hungria",
+      "intCountryName" : "Hungary",
+      "shortName" : "HU"
+    },
+
+
+    { "capitol" : "Dublin",
+      "countryName" : "Irlanda",
+      "intCountryName" : "Ireland",
+      "shortName" : "IE"
+    },
+    { "capitol" : "Reykjavik",
+      "countryName" : "Islandia",
+      "intCountryName" : "Iceland",
+      "shortName" : "IS"
+    },
+    { "capitol" : "Jerusalen",
+      "countryName" : "Israel",
+      "intCountryName" : "Israel",
+      "shortName" : "IL"
+    },
+    { "capitol" : "Roma",
+      "countryName" : "Italia",
+      "intCountryName" : "Italy",
+      "shortName" : "IT"
+    },
+
+    { "capitol" : "Tokyo",
+      "countryName" : "Japón",
+      "intCountryName" : "Japan",
+      "shortName" : "JP"
+    },
+
+    { "capitol" : "Montevideo",
+      "countryName" : "Uruguay",
+      "intCountryName" : "Uruguay",
+      "shortName" : "UY"
+    },
+
+    { "capitol" : "Caracas",
+      "countryName" : "Venezuela",
+      "intCountryName" : "Venezuela",
+      "shortName" : "VE"
+    }
+  ]
+}

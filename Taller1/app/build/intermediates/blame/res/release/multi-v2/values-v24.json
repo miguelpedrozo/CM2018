@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/mpedrozoduran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-beta01.aar/1449c8be9dab64f39673e33e2b6a8368/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

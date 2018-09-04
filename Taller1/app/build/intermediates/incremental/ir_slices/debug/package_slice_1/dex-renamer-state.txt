@@ -1,0 +1,4 @@
+#Mon Sep 03 22:21:41 COT 2018
+base.0=/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Sep 03 22:27:14 COT 2018
+0.baseType=DIRECTORY
+0.base=/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/assets/debug
+0.path=paises.json
+0.set=ASSET
+count=1
