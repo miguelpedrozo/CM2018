@@ -1,6 +1,9 @@
 package com.cm.misc.javeriana.game.app.field;
 
 public class Constants {
+    /**
+     * GitHub URL
+     */
     public static final String GITHUB_FLAGS_URL =
             "https://raw.githubusercontent.com/miguelpedrozo/CM2018/master/flags/{0}.png";
 
@@ -23,10 +26,25 @@ public class Constants {
      */
     public static final String FIELD_RANGE_MAX = "maxNumber";
 
+    /**
+     * Country fields for activity - country name
+     */
     public static final String FIELD_COUNTRY_NAME = "countryName";
+    /**
+     * Country fields for activity - country capitol
+     */
     public static final String FIELD_COUNTRY_CAPITOL = "countryCapitol";
+    /**
+     * Country fields for activity - country international name
+     */
     public static final String FIELD_COUNTRY_INT_NAME = "countryIntName";
+    /**
+     * Country fields for activity - country short code
+     */
     public static final String FIELD_COUNTRY_SHORT_CODE = "countryShortCode";
+    /**
+     * Country fields for activity - country flag url
+     */
     public static final String FIELD_COUNTRY_FLAG_URL = "countryFlagUrl";
 
     /**

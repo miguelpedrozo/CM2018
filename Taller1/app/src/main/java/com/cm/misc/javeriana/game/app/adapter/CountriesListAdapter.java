@@ -12,31 +12,60 @@ import com.cm.misc.javeriana.game.app.model.Country;
 
 import java.util.ArrayList;
 
+/**
+ *
+ */
 public class CountriesListAdapter extends BaseAdapter {
 
     private ArrayList<Country> listData;
     private LayoutInflater layoutInflater;
 
+    /**
+     *
+     * @param context
+     * @param listData
+     */
     public CountriesListAdapter(Context context, ArrayList<Country> listData) {
         this.listData = listData;
         this.layoutInflater = LayoutInflater.from(context);
     }
 
+    /**
+     *
+     * @return
+     */
     @Override
     public int getCount() {
         return listData.size();
     }
 
+    /**
+     *
+     * @param index
+     * @return
+     */
     @Override
     public Object getItem(int index) {
         return listData.get(index);
     }
 
+    /**
+     *
+     * @param index
+     * @return
+     */
     @Override
     public long getItemId(int index) {
         return index;
     }
 
+    /**
+     *
+     * @param index
+     * @param convertView
+     * @param viewGroup
+     * @return
+     */
     @Override
     public View getView(int index, View convertView, ViewGroup viewGroup) {
         CountriesListAdapter.ViewHolder viewHolder;

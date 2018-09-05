@@ -22,27 +22,22 @@
             android:layout_height="wrap_content"
             android:padding="10dp"
             android:text="@string/txv_app_main_menu_guess_game"
+            android:textAlignment="center"
             android:textColor="@color/colorBlue"
-            android:textStyle="bold"
-            android:textAlignment="center" />
+            android:textStyle="bold" />
 
         <ImageView
             android:id="@+id/imvAMMGuessGameImage"
             android:layout_width="match_parent"
-            android:layout_height="123dp"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true"
-            android:layout_below="@id/txvAMMGuessGameTitle"
-            android:layout_marginTop="53dp"
+            android:layout_height="120dp"
+            android:layout_below="@+id/txvAMMGuessGameTitle"
             android:src="@drawable/guess" />
 
         <EditText
             android:id="@+id/txfAMMGuessEndRangeNumber"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/imvAMMGuessGameImage"
-            android:layout_alignParentTop="true"
-            android:layout_marginTop="189dp"
+            android:layout_below="@+id/imvAMMGuessGameImage"
             android:hint="@string/txv_app_main_menu_guess_game_hint"
             android:inputType="number" />
 
@@ -50,11 +45,8 @@
             android:id="@+id/txvAMMCountriesListTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_above="@id/imvAMMCountriesListImage"
-            android:layout_below="@id/txfAMMGuessEndRangeNumber"
-            android:layout_alignParentBottom="true"
-            android:layout_marginBottom="253dp"
-            android:paddingTop="50dp"
+            android:layout_centerVertical="true"
+            android:paddingTop="10dp"
             android:text="@string/txv_app_main_menu_countries"
             android:textAlignment="center"
             android:textColor="@color/colorBlue"
@@ -63,10 +55,8 @@
         <ImageView
             android:id="@+id/imvAMMCountriesListImage"
             android:layout_width="match_parent"
-            android:layout_height="112dp"
-            android:layout_alignParentBottom="true"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="110dp"
+            android:layout_height="120dp"
+            android:layout_below="@+id/txvAMMCountriesListTitle"
             android:src="@drawable/countries" />
 
     </RelativeLayout>

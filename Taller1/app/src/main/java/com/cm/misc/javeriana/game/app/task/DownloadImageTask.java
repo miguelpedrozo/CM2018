@@ -8,13 +8,28 @@ import android.widget.ImageView;
 import java.io.InputStream;
 import java.net.URL;
 
+/**
+ *
+ */
 public class DownloadImageTask extends AsyncTask<String, Void, Bitmap> {
+    /**
+     *
+     */
     private ImageView imageView;
 
+    /**
+     *
+     * @param imageView
+     */
     public DownloadImageTask(ImageView imageView) {
         this.imageView = imageView;
     }
 
+    /**
+     *
+     * @param urls
+     * @return
+     */
     @Override
     protected Bitmap doInBackground(String... urls) {
         String urlOfImage = urls[0];
@@ -28,6 +43,10 @@ public class DownloadImageTask extends AsyncTask<String, Void, Bitmap> {
         return image;
     }
 
+    /**
+     *
+     * @param bitmap
+     */
     @Override
     protected void onPostExecute(Bitmap bitmap) {
         imageView.setImageBitmap(bitmap);

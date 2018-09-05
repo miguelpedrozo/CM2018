@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="24"
-    build-mode="COLD"
+    abi="x86_64,x86"
+    api-level="23"
+    build-mode="FULL"
     density="xxhdpi"
     format="10"
     plugin-version="3.1.3"
-    timestamp="1536031633386"
+    timestamp="1536103766645"
     token="7013768807541369421"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -24,57 +24,147 @@
         duration="0" />
 
     <artifact
-        location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1536031297468"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1536103766645"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1536031633386"
-        verifier="COLD_SWAP_REQUESTED" >
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
         <artifact
-            location="/Users/mpedrozoduran/Documents/Javeriana/CM2018/Personal/repo/CM2018/Taller1/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\mpedrozoduran\Documents\Javeriana\CM2018\Personal\repo\CM2018\Taller1\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\sala_b\Documents\mpedrozoduran\CM2018\Taller1\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 
